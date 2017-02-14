@@ -10,7 +10,7 @@ to draw the right conclusions or the right reasons.
 Even if you're not much into AB-testing (yawn), you might be interested in
 *Welch ANOVA* and the corresponding *Games-Howell* post-hoc test in the
 `IPython` notebook. I have not found any other `python` implementation of these
-tests. Hopefully, they will make thier way into `scipy.stats` someday ...
+tests. Hopefully, they will make their way into `scipy.stats` someday ...
 
 ## Dependencies
 Everything seems to run smoothly on a fairly fresh Anaconda 4.3 install.
